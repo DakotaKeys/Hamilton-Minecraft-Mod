@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "hamiltondisc:item/history_has_its_eyes_on_you_insert"
+    }
+}

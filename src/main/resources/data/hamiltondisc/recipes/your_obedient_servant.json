@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "hamiltondisc:your_obedient_servant_insert"
+        },
+        {
+            "item": "hamiltondisc:blank_disc"
+        }
+    ],
+    "result": {
+        "item": "hamiltondisc:your_obedient_servant"
+    }
+}

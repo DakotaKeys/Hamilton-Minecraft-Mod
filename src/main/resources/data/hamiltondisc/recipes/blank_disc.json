@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "hamiltondisc:vinyl_fragment"
+    }
+  },
+  "result": {
+    "item": "hamiltondisc:blank_disc",
+    "count": 1
+  }
+}

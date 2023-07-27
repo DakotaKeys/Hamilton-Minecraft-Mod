@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "hamiltondisc:item/right_hand_man_insert"
+    }
+}

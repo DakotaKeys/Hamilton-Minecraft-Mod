@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "hamiltondisc:a_winters_ball_insert"
+        },
+        {
+            "item": "hamiltondisc:blank_disc"
+        }
+    ],
+    "result": {
+        "item": "hamiltondisc:a_winters_ball"
+    }
+}

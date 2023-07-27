@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "hamiltondisc:that_would_be_enough_insert"
+        },
+        {
+            "item": "hamiltondisc:blank_disc"
+        }
+    ],
+    "result": {
+        "item": "hamiltondisc:that_would_be_enough"
+    }
+}

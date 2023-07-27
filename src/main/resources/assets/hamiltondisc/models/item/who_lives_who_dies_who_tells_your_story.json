@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "hamiltondisc:item/who_lives_who_dies_who_tells_your_story"
+    }
+}

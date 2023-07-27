@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "hamiltondisc:vinyl_ore"
+  },
+  "result": "hamiltondisc:vinyl_fragment",
+  "experience": 0.7,
+  "cookingtime": 100
+}

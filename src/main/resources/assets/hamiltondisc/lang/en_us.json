@@ -1,0 +1,245 @@
+{
+  "itemGroup.hamilton_disc_tab": "Hamilton Disc",
+  "itemGroup.hamilton_disc_inserts_tab": "Hamilton Inserts",
+  "itemGroup.hamilton_disc_items_tab": "Hamilton Items",
+
+  "block.hamiltondisc.vinyl_ore": "Vinyl Ore",
+
+  "item.hamiltondisc.vinyl_fragment": "Vinyl Fragment",
+
+  "item.hamiltondisc.dollar_bill": "Dollar Bill",
+
+  "item.hamiltondisc.alexander_hamilton_insert": "Alexander Hamilton Insert",
+
+  "item.hamiltondisc.aaron_burr_sir_insert": "Aaron Burr, Sir Insert",
+
+  "item.hamiltondisc.my_shot_insert": "My Shot Insert",
+
+  "item.hamiltondisc.the_story_of_tonight_insert": "The Story Of Tonight Insert",
+
+  "item.hamiltondisc.the_schuyler_sisters_insert": "The Schuyler Sisters Insert",
+
+  "item.hamiltondisc.farmer_refuted_insert": "Farmer Refuted Insert",
+
+  "item.hamiltondisc.youll_be_back_insert": "You'll Be Back Insert",
+
+  "item.hamiltondisc.right_hand_man_insert": "Right Hand Man Insert",
+
+  "item.hamiltondisc.a_winters_ball_insert": "A Winter's Ball Insert",
+
+  "item.hamiltondisc.helpless_insert": "Helpless Insert",
+
+  "item.hamiltondisc.satisfied_insert": "Satisfied Insert",
+
+  "item.hamiltondisc.the_story_of_tonight_reprise_insert": "The Story Of Tonight Reprise Insert",
+
+  "item.hamiltondisc.wait_for_it_insert": "Wait For It Insert",
+
+  "item.hamiltondisc.stay_alive_insert": "Stay Alive Insert",
+
+  "item.hamiltondisc.ten_duel_commandments_insert": "Ten Duel Commandments Insert",
+
+  "item.hamiltondisc.meet_me_inside_insert": "Meet Me Inside Insert",
+
+  "item.hamiltondisc.that_would_be_enough_insert": "That Would Be Enough Insert",
+
+  "item.hamiltondisc.guns_and_ships_insert": "Guns and Ships Insert",
+
+  "item.hamiltondisc.history_has_its_eyes_on_you_insert": "History Has It's Eyes On You Insert",
+
+  "item.hamiltondisc.yorktown_the_world_turned_upside_down_insert": "Yorktown (The World Turned Upside Down) Insert",
+
+  "item.hamiltondisc.what_comes_next_insert": "What Comes Next Insert",
+
+  "item.hamiltondisc.dear_theodosia_insert": "Dear Theodosia Insert",
+
+  "item.hamiltondisc.non_stop_insert": "Non-Stop Insert",
+
+  "item.hamiltondisc.whatd_i_miss_insert": "What'd I Miss Insert",
+
+  "item.hamiltondisc.cabinet_battle_1_insert": "Cabinet Battle #1 Insert",
+
+  "item.hamiltondisc.take_a_break_insert": "Take a Break Insert",
+
+  "item.hamiltondisc.say_no_to_this_insert": "Say No to This Insert",
+
+  "item.hamiltondisc.the_room_where_it_happens_insert": "The Room Where It Happens Insert",
+
+  "item.hamiltondisc.schuyler_defeated_insert": "Schuyler Defeated Insert",
+
+  "item.hamiltondisc.cabinet_battle_2_insert": "Cabinet Battle #2 Insert",
+
+  "item.hamiltondisc.washington_on_your_side_insert": "Washington On Your Side Insert",
+
+  "item.hamiltondisc.one_last_time_insert": "One Last Time Insert",
+
+  "item.hamiltondisc.i_know_him_insert": "I Know Him Insert",
+
+  "item.hamiltondisc.the_adams_administration_insert": "The Adams Administration Insert",
+
+  "item.hamiltondisc.we_know_insert": "We Know Insert",
+
+  "item.hamiltondisc.hurricane_insert": "Hurricane Insert",
+
+  "item.hamiltondisc.the_reynolds_pamphlet_insert": "The Reynolds Pamphlet Insert",
+
+  "item.hamiltondisc.burn_insert": "Burn Insert",
+
+  "item.hamiltondisc.blow_us_all_away_insert": "Blow Us All Away Insert",
+
+  "item.hamiltondisc.stay_alive_reprise_insert": "Stay Alive Reprise Insert",
+
+  "item.hamiltondisc.its_quiet_uptown_insert": "It's Quiet Uptown Insert",
+
+  "item.hamiltondisc.the_election_of_1800_insert": "The Election of 1800 Insert",
+
+  "item.hamiltondisc.your_obedient_servant_insert": "Your Obedient Servant Insert",
+
+  "item.hamiltondisc.best_of_wives_and_best_of_women_insert": "Best Of Wives and Best Of Women Insert",
+
+  "item.hamiltondisc.the_world_was_wide_enough_insert": "The World Was Wide Enough Insert",
+
+  "item.hamiltondisc.who_lives_who_dies_who_tells_your_story_insert": "Who Live, Who Dies, Who Tells Your Story Insert",
+
+  "item.hamiltondisc.blank_disc": "Blank Disc",
+
+  "item.hamiltondisc.alexander_hamilton": "Alexander Hamilton",
+  "item.hamiltondisc.alexander_hamilton.desc": "Lin-Manuel Miranda - Alexander Hamilton",
+
+  "item.hamiltondisc.aaron_burr_sir": "Aaron Burr, Sir",
+  "item.hamiltondisc.aaron_burr_sir.desc": "Lin-Manuel Miranda - Aaron Burr, Sir",
+
+  "item.hamiltondisc.my_shot": "My Shot",
+  "item.hamiltondisc.my_shot.desc": "Lin-Manuel Miranda - My Shot",
+
+  "item.hamiltondisc.the_story_of_tonight": "The Story Of Tonight",
+  "item.hamiltondisc.the_story_of_tonight.desc": "Lin-Manuel Miranda - The Story Of Tonight",
+
+  "item.hamiltondisc.the_schuyler_sisters": "The Schuyler Sisters",
+  "item.hamiltondisc.the_schuyler_sisters.desc": "Lin-Manuel Miranda - The Schuyler Sisters",
+
+  "item.hamiltondisc.farmer_refuted": "Farmer Refuted",
+  "item.hamiltondisc.farmer_refuted.desc": "Lin-Manuel Miranda - Farmer Refuted",
+
+  "item.hamiltondisc.youll_be_back": "You'll Be Back",
+  "item.hamiltondisc.youll_be_back.desc": "Lin-Manuel Miranda - You'll Be Back",
+
+  "item.hamiltondisc.right_hand_man": "Right Hand Man",
+  "item.hamiltondisc.right_hand_man.desc": "Lin-Manuel Miranda - Right Hand Man",
+
+  "item.hamiltondisc.a_winters_ball": "A Winter's Ball",
+  "item.hamiltondisc.a_winters_ball.desc": "Lin-Manuel Miranda - A Winter's Ball",
+
+  "item.hamiltondisc.helpless": "Helpless",
+  "item.hamiltondisc.helpless.desc": "Lin-Manuel Miranda - Helpless",
+
+  "item.hamiltondisc.satisfied": "Satisfied",
+  "item.hamiltondisc.satisfied.desc": "Lin-Manuel Miranda - Satisfied",
+
+  "item.hamiltondisc.the_story_of_tonight_reprise": "The Story Of Tonight Reprise",
+  "item.hamiltondisc.the_story_of_tonight_reprise.desc": "Lin-Manuel Miranda - The Story Of Tonight Reprise",
+
+  "item.hamiltondisc.wait_for_it": "Wait For It",
+  "item.hamiltondisc.wait_for_it.desc": "Lin-Manuel Miranda - Wait For It",
+
+  "item.hamiltondisc.stay_alive": "Stay Alive",
+  "item.hamiltondisc.stay_alive.desc": "Lin-Manuel Miranda - Stay Alive",
+
+  "item.hamiltondisc.ten_duel_commandments": "Ten Duel Commandments",
+  "item.hamiltondisc.ten_duel_commandments.desc": "Lin-Manuel Miranda - Ten Duel Commandments",
+
+  "item.hamiltondisc.meet_me_inside": "Meet Me Inside",
+  "item.hamiltondisc.meet_me_inside.desc": "Lin-Manuel Miranda - Meet Me Inside",
+
+  "item.hamiltondisc.that_would_be_enough": "That Would Be Enough",
+  "item.hamiltondisc.that_would_be_enough.desc": "Lin-Manuel Miranda - That Would Be Enough",
+
+  "item.hamiltondisc.guns_and_ships": "Guns and Ships",
+  "item.hamiltondisc.guns_and_ships.desc": "Lin-Manuel Miranda - Guns and Ships",
+
+  "item.hamiltondisc.history_has_its_eyes_on_you": "History Has It's Eyes On You",
+  "item.hamiltondisc.history_has_its_eyes_on_you.desc": "Lin-Manuel Miranda - History Has It's Eyes On You",
+
+  "item.hamiltondisc.yorktown_the_world_turned_upside_down": "Yorktown (The World Turned Upside Down)",
+  "item.hamiltondisc.yorktown_the_world_turned_upside_down.desc": "Lin-Manuel Miranda - Yorktown (The World Turned Upside Down)",
+
+  "item.hamiltondisc.what_comes_next": "What Comes Next",
+  "item.hamiltondisc.what_comes_next.desc": "Lin-Manuel Miranda - What Comes Next",
+
+  "item.hamiltondisc.dear_theodosia": "Dear Theodosia",
+  "item.hamiltondisc.dear_theodosia.desc": "Lin-Manuel Miranda - Dear Theodosia",
+
+  "item.hamiltondisc.non_stop": "Non-Stop",
+  "item.hamiltondisc.non_stop.desc": "Lin-Manuel Miranda - Non-Stop",
+
+  "item.hamiltondisc.whatd_i_miss": "What'd I Miss",
+  "item.hamiltondisc.whatd_i_miss.desc": "Lin-Manuel Miranda - What'd I Miss",
+
+  "item.hamiltondisc.cabinet_battle_1": "Cabinet Battle #1",
+  "item.hamiltondisc.cabinet_battle_1.desc": "Lin-Manuel Miranda - Cabinet Battle #1",
+
+  "item.hamiltondisc.take_a_break": "Take a Break",
+  "item.hamiltondisc.take_a_break.desc": "Lin-Manuel Miranda - Take a Break",
+
+  "item.hamiltondisc.say_no_to_this": "Say No to This",
+  "item.hamiltondisc.say_no_to_this.desc": "Lin-Manuel Miranda - Say No to This",
+
+  "item.hamiltondisc.the_room_where_it_happens": "The Room Where It Happens",
+  "item.hamiltondisc.the_room_where_it_happens.desc": "Lin-Manuel Miranda - The Room Where It Happens",
+
+  "item.hamiltondisc.schuyler_defeated": "Schuyler Defeated",
+  "item.hamiltondisc.schuyler_defeated.desc": "Lin-Manuel Miranda - Schuyler Defeated",
+
+  "item.hamiltondisc.cabinet_battle_2": "Cabinet Battle #2",
+  "item.hamiltondisc.cabinet_battle_2.desc": "Lin-Manuel Miranda - Cabinet Battle #2",
+
+  "item.hamiltondisc.washington_on_your_side": "Washington On Your Side",
+  "item.hamiltondisc.washington_on_your_side.desc": "Lin-Manuel Miranda - Washington On Your Side",
+
+  "item.hamiltondisc.one_last_time": "One Last Time",
+  "item.hamiltondisc.one_last_time.desc": "Lin-Manuel Miranda - One Last Time",
+
+  "item.hamiltondisc.i_know_him": "I Know Him",
+  "item.hamiltondisc.i_know_him.desc": "Lin-Manuel Miranda - I Know Him",
+
+  "item.hamiltondisc.the_adams_administration": "The Adams Administration",
+  "item.hamiltondisc.the_adams_administration.desc": "Lin-Manuel Miranda - The Adams Administration",
+
+  "item.hamiltondisc.we_know": "We Know",
+  "item.hamiltondisc.we_know.desc": "Lin-Manuel Miranda - We Know",
+
+  "item.hamiltondisc.hurricane": "Hurricane",
+  "item.hamiltondisc.hurricane.desc": "Lin-Manuel Miranda - Hurricane",
+
+  "item.hamiltondisc.the_reynolds_pamphlet": "The Reynolds Pamphlet",
+  "item.hamiltondisc.the_reynolds_pamphlet.desc": "Lin-Manuel Miranda - The Reynolds Pamphlet",
+
+  "item.hamiltondisc.burn": "Burn",
+  "item.hamiltondisc.burn.desc": "Lin-Manuel Miranda - Burn",
+
+  "item.hamiltondisc.blow_us_all_away": "Blow Us All Away",
+  "item.hamiltondisc.blow_us_all_away.desc": "Lin-Manuel Miranda - Blow Us All Away",
+
+  "item.hamiltondisc.stay_alive_reprise": "Stay Alive Reprise",
+  "item.hamiltondisc.stay_alive_reprise.desc": "Lin-Manuel Miranda - Stay Alive Reprise",
+
+  "item.hamiltondisc.its_quiet_uptown": "It's Quiet Uptown",
+  "item.hamiltondisc.its_quiet_uptown.desc": "Lin-Manuel Miranda - It's Quiet Uptown",
+
+  "item.hamiltondisc.the_election_of_1800": "The Election of 1800",
+  "item.hamiltondisc.the_election_of_1800.desc": "Lin-Manuel Miranda - The Election of 1800",
+
+  "item.hamiltondisc.your_obedient_servant": "Your Obedient Servant",
+  "item.hamiltondisc.your_obedient_servant.desc": "Lin-Manuel Miranda - Your Obedient Servant",
+
+  "item.hamiltondisc.best_of_wives_and_best_of_women": "Best Of Wives and Best Of Women",
+  "item.hamiltondisc.best_of_wives_and_best_of_women.desc": "Lin-Manuel Miranda - Best Of Wives and Best Of Women",
+
+  "item.hamiltondisc.the_world_was_wide_enough": "The World Was Wide Enough",
+  "item.hamiltondisc.the_world_was_wide_enough.desc": "Lin-Manuel Miranda - The World Was Wide Enough",
+
+  "item.hamiltondisc.who_lives_who_dies_who_tells_your_story": "Who Live, Who Dies, Who Tells Your Story",
+  "item.hamiltondisc.who_lives_who_dies_who_tells_your_story.desc": "Lin-Manuel Miranda - Who Live, Who Dies, Who Tells Your Story",
+
+  "entity.minecraft.villager.hamiltondisc.disc_merchant": "Disc Merchant"
+}

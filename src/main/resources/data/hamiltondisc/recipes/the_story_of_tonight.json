@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "hamiltondisc:the_story_of_tonight_insert"
+        },
+        {
+            "item": "hamiltondisc:blank_disc"
+        }
+    ],
+    "result": {
+        "item": "hamiltondisc:the_story_of_tonight"
+    }
+}

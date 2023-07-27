@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "hamiltondisc:the_reynolds_pamphlet_insert"
+        },
+        {
+            "item": "hamiltondisc:blank_disc"
+        }
+    ],
+    "result": {
+        "item": "hamiltondisc:the_reynolds_pamphlet"
+    }
+}

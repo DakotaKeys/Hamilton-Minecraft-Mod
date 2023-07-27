@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "hamiltondisc:item/blow_us_all_away_insert"
+    }
+}

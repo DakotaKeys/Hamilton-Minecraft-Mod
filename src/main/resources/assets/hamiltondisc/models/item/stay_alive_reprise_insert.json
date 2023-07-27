@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "hamiltondisc:item/stay_alive_reprise_insert"
+    }
+}
