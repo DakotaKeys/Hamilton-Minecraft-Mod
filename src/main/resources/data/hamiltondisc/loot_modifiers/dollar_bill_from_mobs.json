@@ -2,9 +2,10 @@
   "type": "hamiltondisc:add_item",
   "conditions": [
     {
-      "condition": "block_state_property",
-      "block": "minecraft:grass"
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/zombie"
     }
   ],
-  "item": "hamiltondisc:dollar_bill"
+  "item": "hamiltondisc:dollar_bill",
+  "count": 15
 }
