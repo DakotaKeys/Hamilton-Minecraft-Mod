@@ -2,8 +2,15 @@
   "itemGroup.hamilton_disc_tab": "Hamilton Disc",
   "itemGroup.hamilton_disc_inserts_tab": "Hamilton Inserts",
   "itemGroup.hamilton_disc_items_tab": "Hamilton Items",
+  "itemGroup.hamilton_disc_blocks_tab": "Hamilton Blocks",
 
   "block.hamiltondisc.vinyl_ore": "Vinyl Ore",
+  "block.hamiltondisc.money_log": "Money Log",
+  "block.hamiltondisc.money_wood": "Money Wood",
+  "block.hamiltondisc.stripped_money_log": "Stripped Money Log",
+  "block.hamiltondisc.stripped_money_wood": "Stripped Money Wood",
+  "block.hamiltondisc.money_sapling": "Money Sapling",
+
 
   "item.hamiltondisc.vinyl_fragment": "Vinyl Fragment",
 

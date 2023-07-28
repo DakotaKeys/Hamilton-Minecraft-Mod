@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hamiltondisc:block/stripped_money_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "hamiltondisc:block/stripped_money_wood"
+    },
+    "axis=z": {
+      "model": "hamiltondisc:block/stripped_money_wood",
+      "x": 90
+    }
+  }
+}

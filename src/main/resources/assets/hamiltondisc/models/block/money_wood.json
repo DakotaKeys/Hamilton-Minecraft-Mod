@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hamiltondisc:block/money_log",
+    "side": "hamiltondisc:block/money_log"
+  }
+}

@@ -1,4 +1,4 @@
-package dev.dakotakeys.hamiltondisc.registry;
+package dev.dakotakeys.hamiltondisc.sound;
 
 import dev.dakotakeys.hamiltondisc.HamiltonDisc;
 import net.minecraft.resources.ResourceLocation;

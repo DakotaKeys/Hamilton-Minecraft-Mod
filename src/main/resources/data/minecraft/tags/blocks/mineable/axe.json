@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "hamiltondisc:money_log",
+    "hamiltondisc:money_wood",
+    "hamiltondisc:stripped_money_log",
+    "hamiltondisc:stripped_money_wood"
+  ]
+}

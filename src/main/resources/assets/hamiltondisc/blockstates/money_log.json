@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hamiltondisc:block/money_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "hamiltondisc:block/money_log"
+    },
+    "axis=z": {
+      "model": "hamiltondisc:block/money_log_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stripped_oak_log"
+    },
+    {
+      "item": "hamiltondisc:dollar_bill"
+    }
+  ],
+  "result": {
+    "item": "hamiltondisc:stripped_money_log"
+  }
+}

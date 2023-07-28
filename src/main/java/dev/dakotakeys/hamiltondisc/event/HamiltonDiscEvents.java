@@ -1,15 +1,12 @@
 package dev.dakotakeys.hamiltondisc.event;
 
 import dev.dakotakeys.hamiltondisc.HamiltonDisc;
-import dev.dakotakeys.hamiltondisc.registry.ItemRegistry;
-import dev.dakotakeys.hamiltondisc.registry.VillagerRegistry;
+import dev.dakotakeys.hamiltondisc.item.ItemRegistry;
+import dev.dakotakeys.hamiltondisc.entity.VillagerRegistry;
 import it.unimi.dsi.fastutil.ints.Int2ObjectMap;
-import net.minecraft.world.entity.monster.Monster;
 import net.minecraft.world.entity.npc.VillagerTrades;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Items;
 import net.minecraft.world.item.trading.MerchantOffer;
-import net.minecraftforge.event.entity.living.LivingDeathEvent;
 import net.minecraftforge.event.village.VillagerTradesEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;

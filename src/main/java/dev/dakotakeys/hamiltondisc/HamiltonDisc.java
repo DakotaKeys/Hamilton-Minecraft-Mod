@@ -1,10 +1,10 @@
 package dev.dakotakeys.hamiltondisc;
 
-import dev.dakotakeys.hamiltondisc.loot.AddItemModifier;
+import dev.dakotakeys.hamiltondisc.block.BlockRegistry;
+import dev.dakotakeys.hamiltondisc.entity.VillagerRegistry;
+import dev.dakotakeys.hamiltondisc.item.ItemRegistry;
 import dev.dakotakeys.hamiltondisc.loot.ModLootModifiers;
-import dev.dakotakeys.hamiltondisc.registry.*;
-import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.eventbus.EventBus;
+import dev.dakotakeys.hamiltondisc.sound.SoundRegistry;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;

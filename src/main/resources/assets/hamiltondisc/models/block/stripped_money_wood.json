@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hamiltondisc:block/stripped_money_log",
+    "side": "hamiltondisc:block/stripped_money_log"
+  }
+}

@@ -1,6 +1,9 @@
-package dev.dakotakeys.hamiltondisc.registry;
+package dev.dakotakeys.hamiltondisc.item;
 
+import dev.dakotakeys.hamiltondisc.CreativeTabRegistry;
 import dev.dakotakeys.hamiltondisc.HamiltonDisc;
+import dev.dakotakeys.hamiltondisc.block.BlockRegistry;
+import dev.dakotakeys.hamiltondisc.sound.SoundRegistry;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -10,8 +13,23 @@ import net.minecraftforge.registries.RegistryObject;
 public class ItemRegistry {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, HamiltonDisc.MODID);
 
-    public static final RegistryObject<BlockItem> VINYL_ORE = CreativeTabRegistry.addtoItemTab(ITEMS.register("vinyl_ore",
+    public static final RegistryObject<BlockItem> VINYL_ORE = CreativeTabRegistry.addtoBlockTab(ITEMS.register("vinyl_ore",
             () -> new BlockItem(BlockRegistry.VINYL_ORE.get(), new Item.Properties().stacksTo(64))));
+
+    public static final RegistryObject<BlockItem> MONEY_LOG = CreativeTabRegistry.addtoBlockTab(ITEMS.register("money_log",
+            () -> new BlockItem(BlockRegistry.MONEY_LOG.get(), new Item.Properties().stacksTo(64))));
+
+    public static final RegistryObject<BlockItem> MONEY_WOOD = CreativeTabRegistry.addtoBlockTab(ITEMS.register("money_wood",
+            () -> new BlockItem(BlockRegistry.MONEY_WOOD.get(), new Item.Properties().stacksTo(64))));
+
+    public static final RegistryObject<BlockItem> STRIPPED_MONEY_LOG = CreativeTabRegistry.addtoBlockTab(ITEMS.register("stripped_money_log",
+            () -> new BlockItem(BlockRegistry.STRIPPED_MONEY_LOG.get(), new Item.Properties().stacksTo(64))));
+
+    public static final RegistryObject<BlockItem> STRIPPED_MONEY_WOOD = CreativeTabRegistry.addtoBlockTab(ITEMS.register("stripped_money_wood",
+            () -> new BlockItem(BlockRegistry.STRIPPED_MONEY_WOOD.get(), new Item.Properties().stacksTo(64))));
+
+    public static final RegistryObject<BlockItem> MONEY_SAPLING = CreativeTabRegistry.addtoBlockTab(ITEMS.register("money_sapling",
+            () -> new BlockItem(BlockRegistry.MONEY_SAPLING.get(), new Item.Properties().stacksTo(64))));
 
     public static final RegistryObject<Item> VINYL_FRAGMENT = CreativeTabRegistry.addtoItemTab(ITEMS.register("vinyl_fragment",
             () -> new Item(new Item.Properties().stacksTo(64))));

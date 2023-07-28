@@ -1,8 +1,8 @@
-package dev.dakotakeys.hamiltondisc.registry;
+package dev.dakotakeys.hamiltondisc.entity;
 
 import com.google.common.collect.ImmutableSet;
 import dev.dakotakeys.hamiltondisc.HamiltonDisc;
-import net.minecraft.sounds.SoundEvent;
+import dev.dakotakeys.hamiltondisc.block.BlockRegistry;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.world.entity.ai.village.poi.PoiType;
 import net.minecraft.world.entity.npc.VillagerProfession;
