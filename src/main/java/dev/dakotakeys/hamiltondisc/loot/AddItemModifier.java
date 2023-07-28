@@ -19,6 +19,7 @@ public class AddItemModifier extends LootModifier {
     private final Item item;
     private final Integer count;
 
+
     public static final Supplier<Codec<AddItemModifier>> CODEC = Suppliers.memoize(
             () -> RecordCodecBuilder.create(inst ->
                     codecStart(inst).and(inst.group(
@@ -27,19 +28,23 @@ public class AddItemModifier extends LootModifier {
                     )).apply(inst, AddItemModifier::new)));
 
 
-    protected AddItemModifier(LootItemCondition[] conditionsIn, Item item, Integer count) {
-        super(conditionsIn);
+
+    protected AddItemModifier(LootItemCondition[] conditions, Item item, Integer count) {
+        super(conditions);
         this.item = item;
         this.count = count;
     }
+
 
     @Override
     protected @NotNull ObjectArrayList<ItemStack> doApply(ObjectArrayList<ItemStack> generatedLoot, LootContext context) {
         if(context.getRandom().nextFloat() >= 0.1f) {
             generatedLoot.add(new ItemStack(item));
+            System.out.println(count);
         }
 
         return generatedLoot;
+
     }
 
     @Override
