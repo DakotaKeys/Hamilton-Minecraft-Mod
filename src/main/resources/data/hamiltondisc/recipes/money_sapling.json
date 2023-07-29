@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_sapling"
+    },
+    {
+      "item": "hamiltondisc:dollar_bill"
+    }
+  ],
+  "result": {
+    "item": "hamiltondisc:money_sapling"
+  }
+}
